@@ -39,6 +39,6 @@ print('it\`s a nice day')
 #\"-adds a double quote
 print("she said \"hello\"")
 #she said "i love python programming"
-print("python is easy \"mark john\"")
+print("python is easy `\"mark john\"")
 #"python is easy"-mark john
       
