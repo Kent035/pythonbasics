@@ -29,13 +29,8 @@ if x<10:
           print("you cannot drive")
           #a program that asks user for number and checks if 
           # the number is even or odd..hintevennum%2==0
-    computer=70
-    if computer>=100:
-          print("computer is working is 100")
-    else:
-          print("not working well its 70")
-    even=10
-    if even<=7:
-          print("when a number is even it ends with 2,6,8,10,12")
-    else:
-          print("when a number is not even it ends with 3,7,13")
+    num=int(input("enter a number to check if its even or odd"))
+    if num%2==0:
+          print(f"{num}is even")
+else:
+          print(f"{num} is odd")

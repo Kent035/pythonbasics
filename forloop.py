@@ -15,3 +15,4 @@ for z in range(8,16):
      #step range(start,stop step)
 for  a in range(20,30,2):
      print(a)
+     
